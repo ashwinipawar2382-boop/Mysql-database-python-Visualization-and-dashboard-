@@ -45,7 +45,14 @@ The project includes the following visualizations:
 - Bar Charts  
 - Line Graphs  
 - Pie Charts  
-- Trend Analysis Graphs  
+- Trend Analysis Graphs
+
+
+<img width="876" height="547" alt="output4" src="https://github.com/user-attachments/assets/8d5373c8-eb64-4f8e-8cd6-422c3b04c620" />
+<img width="606" height="455" alt="output6" src="https://github.com/user-attachments/assets/7c5871b1-077b-41c7-b000-9612deb9ef2c" />
+<img width="762" height="475" alt="output3" src="https://github.com/user-attachments/assets/5870b415-5519-437d-a6df-0daf1d13afee" />
+<img width="654" height="455" alt="output" src="https://github.com/user-attachments/assets/6313a0c1-fcca-4061-beac-2ef948bb4a55" />
+
 
 These visualizations help in identifying trends, patterns, and comparisons within the data.
 
